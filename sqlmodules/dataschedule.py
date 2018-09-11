@@ -16,7 +16,7 @@ In/out of SQL database using pandas to_db and from_db
 """
 import sys
 sys.path.append('.')
-import pandasdb
+from sqlmodules import pandasdb
 from sqlalchemy import Column, Integer, String, Float, DateTime
 import datetime
 import xml.etree.ElementTree as ET #module for parsing XML files
