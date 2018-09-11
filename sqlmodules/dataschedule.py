@@ -26,7 +26,7 @@ import pandas as pd
 import schedule
 import time
 
-class sched_input():
+class dataschedule():
     def __init__(self, database, password, host):
         self.database = database
         self.password = password
