@@ -6,4 +6,4 @@ setup(name='sqlmodules',
       url='http://github.com/bdjos/sqlmodules',
       author='bdjos',
       author_email='bdjos@gmail.com',
-      packages=['sqlmodules'])
+      packages=['sqlmodules', 'predictmodules'])
