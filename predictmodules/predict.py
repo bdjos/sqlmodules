@@ -2,7 +2,7 @@
 
 from fastai.structured import *
 from fastai.column_data import *
-import accuweathertest
+from predictmodels import accuweathertest
 import os
 import numpy as np
 
